@@ -1,5 +1,5 @@
-#wan Mohammad Faisal Bin Sammio
-# B031720043
+#Faisal 
+
 
 import socket
 import subprocess
@@ -17,7 +17,7 @@ print "tahniah ler, anda manusia ye bukan bot hihi"
 
 print ' \n '
 print "=" * 60
-print "slmt dtg, ni asgmt hacking faisal B031720043 guna scapy in python!!"
+print "slmt dtg, ni asgmt hacking faisal guna scapy in python!!"
 print "=" * 60
 
 
